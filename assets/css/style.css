@@ -1,0 +1,12 @@
+.border-red{
+    border: 2px solid red;
+}
+
+.sticker-container{
+    margin-top: 20px;
+}
+
+.sticker-image{
+    width: 150px;
+    height: 150px;
+}
